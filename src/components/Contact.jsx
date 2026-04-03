@@ -43,7 +43,7 @@ const Contact = () => {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/krishnaiya-vesuwala"
+              href="https://www.linkedin.com/feed/"
               target="_blank"
               className="text-sm underline hover:text-black"
             >
