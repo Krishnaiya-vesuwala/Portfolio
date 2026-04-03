@@ -72,6 +72,32 @@ const Projects = () => {
       github: null,
       status: "Code available on request",
     },
+    {
+  title: "Ethereum Smart Contract & Tokenization Project",
+  description:
+    "Developed and deployed smart contracts using Solidity to implement token creation and secure transfer functionality on a blockchain network. Simulated a complete blockchain environment with wallet interaction and real-time transactions.",
+
+  tech: [
+    "Solidity",
+    "Ethereum",
+    "Remix IDE",
+    "Ganache",
+    "MetaMask",
+    "Web3.js"
+  ],
+
+  points: [
+    "Developed smart contracts for token creation and transfer",
+    "Simulated blockchain environment using Ganache and Remix IDE",
+    "Integrated MetaMask for wallet interaction and transaction execution",
+    "Implemented secure token balance management system",
+    "Tested and validated transactions across multiple accounts",
+    "Demonstrated real-world blockchain and decentralized application concepts"
+  ],
+
+  github: null,
+  status: "Code available on request",
+}
   ];
 
   return (
