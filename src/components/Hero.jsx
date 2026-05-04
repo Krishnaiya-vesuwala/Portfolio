@@ -15,12 +15,12 @@ export default function Hero() {
       </p>
 
       <div className="flex justify-center gap-4">
-        <button
+        {/* <button
           onClick={() => document.getElementById('projects').scrollIntoView({ behavior: 'smooth' })}
           className="px-6 py-2 bg-blue-600 text-white rounded-md"
         >
           View Projects
-        </button>
+        </button> */}
 
         <button
           onClick={() => document.getElementById('contact').scrollIntoView({ behavior: 'smooth' })}
